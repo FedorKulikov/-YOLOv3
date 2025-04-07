@@ -22,7 +22,6 @@ python main.py --input 0
 ```
 
 ## Обработка изображения
-# python main.py --input image.jpg
 ```bash
 python main.py --input <PATH_TO_IMAGE>
 ```
