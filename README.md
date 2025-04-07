@@ -23,7 +23,7 @@ python main.py --input 0
 
 ## Обработка изображения
 ```bash
-python main.py --input <PATH_TO_IMAGE>
+python3 main.py --input <PATH_TO_IMAGE>
 ```
 ## Обработка видео
 ```bash
