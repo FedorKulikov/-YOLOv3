@@ -21,14 +21,16 @@
 
 Зеленые рамки вокруг обнаруженных лиц
 
-# Веб-камера
+## Веб-камера
+```bash
 python main.py --input 0
+```
 
-# Обработка изображения
-python main.py --input image.jpg
+## Обработка изображения
+# python main.py --input image.jpg
 
-# Обработка видео
-python main.py --input video.mp4
+## Обработка видео
+# python main.py --input video.mp4
 
 ## Примеры использования
 
