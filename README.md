@@ -18,9 +18,13 @@
 
 ## Требования
 Python 3.x
+
 OpenCV (pip install opencv-python)
+
 YOLO weights file (yolov3-wider_16000.weights)
+
 YOLO configuration file (yolov3-face.cfg)
+
 Class names file (face.names)
 
 ## Веб-камера
