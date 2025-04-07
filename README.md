@@ -1,8 +1,5 @@
 # Face Detection and Blurring with YOLOv3
 
-![Demo](https://via.placeholder.com/800x400?text=Face+Detection+and+Blurring+Demo)  
-*(Пример работы скрипта - можно заменить на реальное изображение или GIF)*
-
 ## Описание
 Скрипт для автоматического обнаружения и размытия лиц на:
 - Изображениях (JPEG, PNG)
