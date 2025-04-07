@@ -49,6 +49,7 @@ python main.py --input <PATH_TO_VIDEO>
 
 # После:
 
-![image](https://github.com/user-attachments/assets/12b7f2f9-f6ba-4c27-8c8d-07887cdff56d)
+![nX5UnLIwpjg](https://github.com/user-attachments/assets/b9157e71-4388-4c92-9d52-435d5e1932d2)
+
 
 
