@@ -3,7 +3,7 @@
 ![Demo](https://via.placeholder.com/800x400?text=Face+Detection+and+Blurring+Demo)  
 *(Пример работы скрипта - можно заменить на реальное изображение или GIF)*
 
-## 📝 Описание
+## Описание
 Скрипт для автоматического обнаружения и размытия лиц на:
 - Изображениях (JPEG, PNG)
 - Видеофайлах (MP4, AVI, MOV)
@@ -33,13 +33,15 @@ python main.py --input image.jpg
 # Обработка видео
 python main.py --input video.mp4
 
-Примеры использования
+## Примеры использования
 
-До:
+# До:
+
 ![xATU2PqTp8oFkna0VycsG65fk7nt_SImrvOCOVK3RV_fBz4hFitXP7JjgAafk5NjTZ37Ie17pKSp5DzDUrSxHeEW](https://github.com/user-attachments/assets/fb5e3d33-c80e-47ed-89da-d83e82612862)
 
 
-После:
+# После:
+
 ![image](https://github.com/user-attachments/assets/12b7f2f9-f6ba-4c27-8c8d-07887cdff56d)
 
 
