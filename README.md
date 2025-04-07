@@ -44,12 +44,12 @@ python main.py --input <PATH_TO_VIDEO>
 
 # До:
 
-![xATU2PqTp8oFkna0VycsG65fk7nt_SImrvOCOVK3RV_fBz4hFitXP7JjgAafk5NjTZ37Ie17pKSp5DzDUrSxHeEW](https://github.com/user-attachments/assets/fb5e3d33-c80e-47ed-89da-d83e82612862)
-
+![face_before](https://github.com/user-attachments/assets/ba5c6cdf-4630-4012-a2fd-667ece5f7f48)
 
 # После:
 
-![nX5UnLIwpjg](https://github.com/user-attachments/assets/b9157e71-4388-4c92-9d52-435d5e1932d2)
+![face_after](https://github.com/user-attachments/assets/d49bc22b-2f9b-4dc3-b84c-b638dcf4e94d)
+
 
 
 
